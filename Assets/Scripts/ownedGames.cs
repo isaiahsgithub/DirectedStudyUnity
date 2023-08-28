@@ -103,7 +103,6 @@ public class ownedGames : MonoBehaviour
         getPlayTimeInOtherDevelopers("Nexon", 5);
         getPlayTimeInOtherPublishers("Nexon America Inc.", 5);
 
-        //FIND OTHER GENRE THAT IS UNIQUE  TEST SOON - NEEDS TESTING AS OF 2023-08-13
 
         //getAchievementRateInOtherGenre("Strategy", 0.25);
         //getAchievementRateInOtherGenre("Strategy", 0.06);
